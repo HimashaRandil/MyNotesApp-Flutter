@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922799858827",
+    "project_id": "mynotes-winterrox-projec-b01cf",
+    "storage_bucket": "mynotes-winterrox-projec-b01cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922799858827:android:7637683b64a2dbf370a08e",
+        "android_client_info": {
+          "package_name": "lk.owlda.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922799858827-mleafmb1e37mb6k56889asj0i48nc2lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUum7ogDFvql_BcGxgx9_GzvX845vW9wM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922799858827-mleafmb1e37mb6k56889asj0i48nc2lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
